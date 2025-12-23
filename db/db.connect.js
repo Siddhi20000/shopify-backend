@@ -1,5 +1,6 @@
 const mongoose= require("mongoose");
-require("dotenv").config();
+//require("dotenv").config();
+require("dotenv").config({ path: ".env.grocery" });
 
 const mongoUri= process.env.MONGODB;
 
