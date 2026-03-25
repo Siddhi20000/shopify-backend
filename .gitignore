@@ -1,3 +1,9 @@
 /node_modules
 .env
 .env.grocery
+/grocery.js
+/middlewares
+/routes
+/user.models.js
+/order.models.js
+/product.models.js
