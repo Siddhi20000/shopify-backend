@@ -3,7 +3,7 @@
 .env.grocery
 /grocery.js
 middlewares
-/routes
+routes
 /user.models.js
 /order.models.js
 /product.models.js
