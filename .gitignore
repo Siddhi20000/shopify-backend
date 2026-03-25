@@ -2,7 +2,7 @@
 .env
 .env.grocery
 /grocery.js
-/middlewares
+middlewares
 /routes
 /user.models.js
 /order.models.js
